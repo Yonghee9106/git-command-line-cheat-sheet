@@ -1,1 +1,1 @@
- My Git study history
+ My Git Study History

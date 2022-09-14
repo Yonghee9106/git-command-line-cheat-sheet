@@ -48,7 +48,7 @@ Initialized empty Git repository in C:/Users/.../.git/
 ```
 
 
-                          <br/><br/>
+<br/><br/>
 
 
 ## References

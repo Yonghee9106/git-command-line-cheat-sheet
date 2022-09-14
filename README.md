@@ -9,7 +9,7 @@
 
 ## Version Check
 
-You can check your Git version by running the following command line in your cmd (Windows) or terminal (Linux, Mac).
+You can check your Git version by running the following command line in your cmd (Windows) or terminal (Linux, MacOS).
 ```git
 $ git --version
 ```
@@ -19,6 +19,7 @@ If Git is installed in your local machine, it will return the version
 ```git
 git version X.XX.X.OS.X
 ```
+
 
 <br/><br/>
 

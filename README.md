@@ -34,6 +34,9 @@ You can create an empty Git repository or reinitialize an existing one.
 ```git
 $ git init
 ```
+<br/>
+
+If git init [zzz]`#1589F0`
 
 
 <br/><br/>

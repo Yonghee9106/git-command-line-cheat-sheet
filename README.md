@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Version Check](#Version Check)
+* [Version Check](#Version-Check)
 * [References](#References)
 
 

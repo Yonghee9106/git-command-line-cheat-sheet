@@ -42,7 +42,7 @@ $ git init <directory>
 ```
 <br/>
 
-If `$ git init` command is successful, it will create a hidden directory called `.git`. This directory stores objects and refs that Git uses. Also it will store commit history and other information for version control.
+If `$ git init` command is successful, it will create a hidden directory called `.git`. This directory contains objects and refs that Git uses. Also it will store commit history and other information for version control.
 ```git
 Initialized empty Git repository in C:/Users/.../.git/
 ```

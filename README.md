@@ -13,7 +13,7 @@ You can check your Git version by running the following command line in your cmd
 ```git
 $ git --version
 ```
-
+<br/>
 If Git is installed in your local machine, it will return the version
 ```git
 git version X.XX.X.OS.X

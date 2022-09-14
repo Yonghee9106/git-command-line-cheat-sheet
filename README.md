@@ -36,7 +36,7 @@ $ git init
 ```
 <br/>
 
-If you want to create Git repository in other directory, you can enter path (path1/path2).
+If you want to create Git repository in another directory, you can enter path (path1/path2).
 ```git
 $ git init <directory>
 ```

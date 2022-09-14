@@ -30,7 +30,7 @@ If it doesn't return the version of git, you must [install Git](https://git-scm.
 
 ## Git Initialization
 
-You can create an empty Git repository or reinitialize an existing one. It will transform the current directory into a Git repository.
+You can create an empty Git repository or reinitialize an existing one. It will convert the current directory into a Git repository.
 ```git
 $ git init
 ```

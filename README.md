@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Version Check](#Version-Check)
+* [Git Initialization](#Git-Initialization)
 * [References](#References)
 
 

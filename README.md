@@ -15,7 +15,7 @@ $ git --version
 ```
 <br/>
 
-If Git is installed in your local machine, it will return the version
+If Git is installed in your local machine, it will return the version.
 ```git
 git version X.XX.X.OS.X
 ```

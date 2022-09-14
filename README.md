@@ -36,6 +36,12 @@ $ git init
 ```
 <br/>
 
+If you want to create Git repository in other directory, you can enter path.
+```git
+$ git init <directory>
+```
+<br/>
+
 If `$ git init` command is successful, it will create a hidden directory called `.git`. This directory stores objects and refs that Git uses and commit history and other information for version control.
 ```git
 Initialized empty Git repository in C:/Users/.../.git/

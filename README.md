@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Version Check](#Version-Check)
+* [Git Version Check](#Git-Version-Check)
 * [Git Initialization](#Git-Initialization)
 * [References](#References)
 
@@ -8,7 +8,7 @@
 <br/><br/>
 
 
-## Version Check
+## Git Version Check
 
 You can check your Git version by running the following command line in your cmd (Windows) or terminal (Linux, MacOS).
 ```git

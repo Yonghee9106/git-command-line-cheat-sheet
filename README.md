@@ -36,7 +36,7 @@ $ git init
 ```
 <br/>
 
-If git init `#c5f015`
+If git init `$ git init`
 
 
 <br/><br/>

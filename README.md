@@ -1,7 +1,8 @@
 # Table of Contents
 
+* [Version Check](#Version Check)
 * [References](#References)
-* [Version Check](#Version)
+
 
 <br/>
 <br/><br/>

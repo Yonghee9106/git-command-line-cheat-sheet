@@ -19,6 +19,9 @@ If Git is installed in your local machine, it will return the version.
 ```git
 git version X.XX.X.OS.X
 ```
+<br/>
+
+If it doesn't return the version of git, you must install [Git](https://git-scm.com/downloads) first.
 
 
 <br/><br/>

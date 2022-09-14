@@ -27,6 +27,17 @@ If it doesn't return the version of git, you must [install Git](https://git-scm.
 <br/><br/>
 
 
+## Git Initialization
+
+You can create an empty Git repository or reinitialize an existing one.
+```git
+$ git init
+```
+
+
+<br/><br/>
+
+
 ## References
 
 ### Cheat Sheet

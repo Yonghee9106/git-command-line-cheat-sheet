@@ -1,12 +1,20 @@
 # Table of Contents
+
 * [References](#References)
+* [Version Check](#Version Check)
+
+
 
 
 
 ## Version Check
+
 ```
 $ git --version
 ```
+
+
+
 
 
 ## References

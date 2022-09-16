@@ -60,6 +60,10 @@ Initialized empty Git repository in C:/Users/.../.git/
 
 ## Git Configuration
 
+```git
+$ git config --global user.email "email@gamil.com"
+```
+
 
 
 <br/><br/>

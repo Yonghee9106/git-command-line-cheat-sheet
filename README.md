@@ -63,9 +63,9 @@ Initialized empty Git repository in C:/Users/.../.git/
 The `git config` is used to set the configuration values on a local, global or system level.
 <br/><br/>
 
-Let's change the email address to "email@<span></span>gamil.com" on a global level.
+Let's change the email address to "email@<span></span>gmail.com" on a global level.
 ```git
-$ git config --global user.email "email@gamil.com"
+$ git config --global user.email "email@gmail.com"
 ```
 
 

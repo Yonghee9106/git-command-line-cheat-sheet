@@ -60,7 +60,7 @@ Initialized empty Git repository in C:/Users/.../.git/
 
 ## Git Configuration
 
-The `git config` is used to set the configuration values on a local, global and system level.
+The `git config` is used to set the configuration values on a local, global or system level.
 ```git
 $ git config --global user.email "email@gamil.com"
 ```

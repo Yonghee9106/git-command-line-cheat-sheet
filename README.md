@@ -5,7 +5,9 @@
 * [References](#References)
 
 
+
 <br/><br/>
+
 
 
 ## Git Version Check
@@ -25,7 +27,9 @@ git version X.XX.X.OS.X
 If it doesn't return the version of Git, you must [install Git](https://git-scm.com/downloads) first.
 
 
+
 <br/><br/>
+
 
 
 ## Git Initialization
@@ -48,13 +52,17 @@ Initialized empty Git repository in C:/Users/.../.git/
 ```
 
 
+
 <br/><br/>
+
 
 
 ## Git Configuration
 
 
+
 <br/><br/>
+
 
 
 ## References

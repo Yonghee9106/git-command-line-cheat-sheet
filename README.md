@@ -2,6 +2,7 @@
 
 * [Git Version Check](#Git-Version-Check)
 * [Git Initialization](#Git-Initialization)
+* [Git Configuration](#Git-Configuration)
 * [References](#References)
 
 

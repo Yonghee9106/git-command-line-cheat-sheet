@@ -69,7 +69,7 @@ $ git config --global user.email "email@gmail.com"
 ```
 <br/>
 
-Let's check if email is changed on a global level.
+Let's check that the email is changed on a global level.
 ```git
 $ git config --global user.email
 ```

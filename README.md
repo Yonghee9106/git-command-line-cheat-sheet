@@ -88,6 +88,9 @@ If you want to remove some properties, you can use `--unset` flag
 $ git config --global --unset user.name
 $ git config --global --unset user.email
 ```
+<br/>
+
+The Git's configuration values are stored in text file
 
 
 

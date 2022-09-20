@@ -77,7 +77,7 @@ $ git config --global user.email
 ```
 <br/>
 
-Or you can bring all the properties on a global level.
+Or you can bring all the global level properties.
 ```git
 $ git config --global --list
 ```

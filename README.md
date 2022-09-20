@@ -75,6 +75,12 @@ Let's check that the name and email are set on a global level.
 $ git config --global user.name
 $ git config --global user.email
 ```
+<br/>
+
+Or you can bring all the properties on a global level.
+```git
+$ git config --global --list
+```
 
 
 

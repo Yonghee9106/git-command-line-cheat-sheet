@@ -90,7 +90,10 @@ $ git config --global --unset user.email
 ```
 <br/>
 
-The Git's configuration values are stored in text file
+The Git's configuration values are stored in text file named `.gitconfig`. So, you can just use previous commands to edit your configuration or open the `.gitconfig' text file and simply change it by using the following command.
+```git
+$ git config --global --edit
+```
 
 
 

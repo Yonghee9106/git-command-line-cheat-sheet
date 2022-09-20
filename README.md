@@ -81,6 +81,13 @@ Or you can bring all the global level properties.
 ```git
 $ git config --global --list
 ```
+<br/>
+
+If you want to remove some properties, you can use `--unset` flag
+```git
+$ git config --global --unset user.name
+$ git config --global --unset user.email
+```
 
 
 

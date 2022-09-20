@@ -70,7 +70,7 @@ $ git config --global user.email "email@gmail.com"
 ```
 <br/>
 
-Let's check that the name and email are set on a global level.
+Let's check the name and email configured globally.
 ```git
 $ git config --global user.name
 $ git config --global user.email

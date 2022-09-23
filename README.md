@@ -104,7 +104,7 @@ $ git config --global --edit
 
 ## Adding Changes
 
-The `git add` command adds new or chnanged files in the working directory to the staging area.
+The `git add` command adds new or changed files in the working directory to the staging area.
 ```git
 $ git add text.txt
 ```

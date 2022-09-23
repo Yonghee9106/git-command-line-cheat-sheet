@@ -3,6 +3,7 @@
 * [Git Version Check](#Git-Version-Check)
 * [Git Initialization](#Git-Initialization)
 * [Git Configuration](#Git-Configuration)
+* [Adding changes](#Adding-changes)
 * [References](#References)
 
 
@@ -94,6 +95,14 @@ The Git's configuration values are stored in a text file named `.gitconfig`. So,
 ```git
 $ git config --global --edit
 ```
+
+
+
+<br/><br/>
+
+
+
+## Adding changes
 
 
 

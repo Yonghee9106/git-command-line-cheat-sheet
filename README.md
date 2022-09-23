@@ -3,7 +3,7 @@
 * [Git Version Check](#Git-Version-Check)
 * [Git Initialization](#Git-Initialization)
 * [Git Configuration](#Git-Configuration)
-* [Adding changes](#Adding-changes)
+* [Adding Changes](#Adding-Changes)
 * [References](#References)
 
 
@@ -102,7 +102,7 @@ $ git config --global --edit
 
 
 
-## Adding changes
+## Adding Changes
 
 
 

@@ -118,7 +118,7 @@ git add -A
 
 The `git add .` command adds new and modified files, without deleted files.
 ```git
-git add -A
+git add .
 ```
 
 

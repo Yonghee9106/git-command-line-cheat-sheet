@@ -108,6 +108,12 @@ The `git add` command adds new or changed files in the working directory to the 
 ```git
 $ git add text.txt
 ```
+<br/>
+
+The `git add -A` command adds all changes
+```git
+git add -A
+```
 
 
 

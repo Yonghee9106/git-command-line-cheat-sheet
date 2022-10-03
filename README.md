@@ -110,7 +110,7 @@ $ git add text.txt
 ```
 <br/>
 
-The `git add -A` command adds all changes
+The `git add -A` command adds all changes. The "-A" option means all.
 ```git
 git add -A
 ```

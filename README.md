@@ -110,13 +110,13 @@ $ git add text.txt
 ```
 <br/>
 
-The `git add -A` command adds all changes. The "-A" option means all.
+The `git add -A` command adds all changes. The `-A` option means all.
 ```git
 git add -A
 ```
 <br/>
 
-The `git add .` command adds new and modified files, **without deleted files**. The "." stands for current directory.
+The `git add .` command adds new and modified files, **without deleted files**. The `.` stands for current directory.
 ```git
 git add .
 ```

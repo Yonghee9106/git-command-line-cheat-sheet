@@ -116,7 +116,7 @@ git add -A
 ```
 <br/>
 
-The `git add .` command adds new and modified files, **without deleted files**. The `.` stands for current directory.
+The `git add .` command adds new and modified files, **without deleted files** on the current directory and it's sub-directories. The `.` stands for current directory.
 ```git
 git add .
 ```
